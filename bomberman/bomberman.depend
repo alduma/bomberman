@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1539790163 source:/home/alduma/Desktop/bomberman/main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	"pantalla.h"
+
+1539791540 /home/alduma/Desktop/bomberman/include/pantalla.h
+	<SFML/Graphics.hpp>
+	<menu_del_juego.h>
+
+1539791498 source:/home/alduma/Desktop/bomberman/src/pantalla.cpp
+	<iostream>
+	"pantalla.h"
+
+1539791370 source:/home/alduma/Desktop/bomberman/src/menu_del_juego.cpp
+	<iostream>
+	"menu_del_juego.h"
+
+1539791637 /home/alduma/Desktop/bomberman/include/menu_del_juego.h
+	<iostream>
+	<SFML/Graphics.hpp>
+
